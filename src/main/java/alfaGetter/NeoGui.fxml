@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.web.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane cacheShape="false" centerShape="false" minHeight="0.0" minWidth="0.0" pickOnBounds="false" prefHeight="387.0" prefWidth="596.0" scaleShape="false" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="14.0" layoutY="353.0" mnemonicParsing="false" text="Get" />
+      <Button cancelButton="true" layoutX="530.0" layoutY="353.0" mnemonicParsing="false" text="Quit" />
+      <TextFlow layoutX="53.0" layoutY="14.0" prefHeight="337.0" prefWidth="472.0" />
+   </children>
+</AnchorPane>

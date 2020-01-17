@@ -12,6 +12,6 @@ public class GetText {
 
     public static void main (String[] args){
         new GetText();
-        Application.launch(args);
+        Application.launch(GetterGui.class );
     }
 }

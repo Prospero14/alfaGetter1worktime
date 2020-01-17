@@ -17,7 +17,7 @@ public class GetterGui extends Application {
         @Override
         public void start(Stage primaryStage) throws IOException {
 
-            Parent pane1 = FXMLLoader.load(getClass().getResource("NeoGui.fxml"));
+            FXMLLoader pane1 = FXMLLoader.load(getClass().getResource("NeoGui.fxml"));
             Scene scene = new Scene(pane1);
             Button btn = new Button("Getter");
 
