@@ -1,15 +1,17 @@
 package alfaGetter;
 
-import com.google.gson.internal.bind.util.ISO8601Utils;
-import org.openqa.selenium.By;
+import javafx.application.Application;
 
-
-import java.io.FileWriter;
-import java.io.IOException;
 
 public class GetText {
+
     GetText() {
         Parser prs = new Parser();
         System.out.println(prs.getTextLine());
+    }
+
+    public static void main (String[] args){
+        new GetText();
+        Application.launch(args);
     }
 }
