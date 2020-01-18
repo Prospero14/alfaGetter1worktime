@@ -1,35 +1,25 @@
-/*package alfaGetter;
+package alfaGetter;
 
-import javafx.application.Application;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
-import javafx.scene.layout.StackPane;
-import javafx.stage.Stage;
+import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
-import javafx.fxml.FXMLLoader;
+import javafx.scene.control.TextArea;
+import javafx.scene.layout.Pane;
 
-import java.io.IOException;
+public class GetterGui {
 
-public class GetterGui extends Application {
+    @FXML
+    private Pane pane1;
 
-        @Override
-        public void start(Stage primaryStage) throws IOException {
+    @FXML
+    private Button dislike;
 
-            FXMLLoader pane1 = FXMLLoader.load(getClass().getResource("NeoGui.fxml"));
-            Scene scene = new Scene(pane1);
-            Button btn = new Button("Getter");
+    @FXML
+    private Button like1;
 
-            StackPane pane2 = new StackPane();
-            pane2.getChildren().add(btn);
+    @FXML
+    private TextArea textZone;
 
-            primaryStage.setScene(scene);
-            primaryStage.show();
+    @FXML
+    private Button get1;
 
-        }
-
-
-    }
-
- */
+}
