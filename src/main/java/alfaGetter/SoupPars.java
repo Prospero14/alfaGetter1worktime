@@ -9,12 +9,10 @@ import java.io.IOException;
 
 public class SoupPars {
 
-    public SoupPars() {
-        Document doc = Jsoup.connect("http://stackoverflow.com").userAgent("Mozilla").get();
-        for (Element e: doc.select("a.question-hyperlink")) {
-            System.out.println(e.attr("abs:href"));
-            System.out.println(e.text());
-            System.out.println();
-        }
+    public static void main (String [] args) throws IOException {
+        Document doc = Jsoup.connect("http://habr.com").get();
+        String title = doc.title();
+        System.out.println("Title : " + title);
     }
 }
+

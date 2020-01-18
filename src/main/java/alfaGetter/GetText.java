@@ -1,6 +1,6 @@
 package alfaGetter;
 
-import javafx.application.Application;
+/*mport javafx.application.Application;
 
 
 public class GetText {
@@ -13,6 +13,9 @@ public class GetText {
     public static void main (String[] args){
         new GetText();
         new SoupPars();
-        Application.launch(GetterGui.class );
+        Application.launch(JFrameWindowListener.class);
     }
 }
+
+
+ */

@@ -1,4 +1,4 @@
-package alfaGetter;
+/*package alfaGetter;
 
 import javafx.application.Application;
 import javafx.scene.Parent;
@@ -31,3 +31,5 @@ public class GetterGui extends Application {
 
 
     }
+
+ */
