@@ -6,12 +6,13 @@ import javafx.application.Application;
 public class GetText {
 
     GetText() {
-        Parser prs = new Parser();
-        System.out.println(prs.getTextLine());
+
+        System.out.println("Done");
     }
 
     public static void main (String[] args){
         new GetText();
+        new SoupPars();
         Application.launch(GetterGui.class );
     }
 }
