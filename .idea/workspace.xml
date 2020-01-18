@@ -51,15 +51,16 @@
       <recent name="alfaGetter" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Prospero\Documents\GitHub\alfaGetter1worktime\target" />
       <recent name="C:\Users\Prospero\Documents\GitHub\alfaGetter1worktime\src\main\java\alfaGetter" />
       <recent name="C:\leJaba\alfaGetter\src\main\java\alfaGetter" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="SoupPars" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="GetText" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_231\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="alfaGetter.SoupPars" />
+      <option name="MAIN_CLASS_NAME" value="alfaGetter.GetText" />
       <module name="alfaGetter1worktime" />
       <shortenClasspath name="NONE" />
       <method v="2">
@@ -106,19 +107,19 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="690" y="271" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1036/1920.62.1600.900@0.0.1920.1036" timestamp="1579273007578" />
-    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579342018749">
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579361039711">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1579342018749" />
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1579361039711" />
     <state x="305" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1036/1920.62.1600.900@0.0.1920.1036" timestamp="1579270519357" />
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1579246793101">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1036/1920.62.1600.900@0.0.1920.1036" timestamp="1579246793101" />
-    <state x="529" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579342017190">
+    <state x="529" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579361038059">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="529" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1579342017190" />
+    <state x="529" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1579361038059" />
     <state x="635" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1036/1920.62.1600.900@0.0.1920.1036" timestamp="1579270517084" />
     <state x="778" y="385" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579240515923">
       <screen x="0" y="0" width="1920" height="1036" />
@@ -146,30 +147,30 @@
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1579188011837" />
     <state x="696" y="223" key="FileChooserDialogImpl/0.0.1920.1036/1920.62.1600.900@0.0.1920.1036" timestamp="1579270397861" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1579343128555">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1579361595638">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579343128555" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579361595638" />
     <state width="938" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1036/1920.62.1600.900@0.0.1920.1036" timestamp="1579274890924" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1579343128555">
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1579361595638">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579343128555" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579361595638" />
     <state width="938" height="275" key="GridCell.Tab.0.center/0.0.1920.1036/1920.62.1600.900@0.0.1920.1036" timestamp="1579274890924" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1579343128555">
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1579361595637">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579343128555" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579361595637" />
     <state width="938" height="275" key="GridCell.Tab.0.left/0.0.1920.1036/1920.62.1600.900@0.0.1920.1036" timestamp="1579274890924" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1579343128555">
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1579361595638">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579343128555" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579361595638" />
     <state width="938" height="275" key="GridCell.Tab.0.right/0.0.1920.1036/1920.62.1600.900@0.0.1920.1036" timestamp="1579274890924" />
-    <state x="396" y="104" key="Maven.ArtifactSearchDialog" timestamp="1579273352991">
-      <screen x="0" y="0" width="1920" height="1036" />
+    <state x="330" y="86" key="Maven.ArtifactSearchDialog" timestamp="1579344715458">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="330" y="86" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1579202249411" />
+    <state x="330" y="86" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1579344715458" />
     <state x="396" y="104" key="Maven.ArtifactSearchDialog/0.0.1920.1036/1920.62.1600.900@0.0.1920.1036" timestamp="1579273352991" />
     <state x="280" y="5" key="SettingsEditor" timestamp="1579338658258">
       <screen x="0" y="0" width="1600" height="860" />
