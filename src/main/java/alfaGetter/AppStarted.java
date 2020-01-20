@@ -16,7 +16,7 @@ public class AppStarted extends Application {
         Parent root = loader.load();
 
         Scene scene = new Scene(root);
-
+        stage.setTitle("Hunt and be hunted");
         stage.setScene(scene);
         stage.show();
     }

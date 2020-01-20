@@ -1,5 +1,6 @@
 package alfaGetter;
 
+import javafx.event.Event;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextArea;
@@ -21,5 +22,12 @@ public class GetterGui {
 
     @FXML
     private Button get1;
+
+    @FXML
+    void initialize(){
+        this.like1.setOnAction(Event -> {
+            System.out.println(SoupPars.class);
+        }
+    }
 
 }

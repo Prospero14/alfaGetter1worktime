@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<Pane fx:id="pane1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+<Pane fx:id="pane1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <Button fx:id="like1" layoutX="564.0" layoutY="204.0" mnemonicParsing="false" text="Like" />
       <Button fx:id="dislike" layoutX="14.0" layoutY="204.0" mnemonicParsing="false" text="Dislike" />
       <Button fx:id="get1" layoutX="564.0" layoutY="422.0" mnemonicParsing="false" text="Get page" />
-      <TextArea fx:id="textZone" layoutX="88.0" layoutY="69.0" prefHeight="353.0" prefWidth="456.0" />
+      <TextArea fx:id="textZone" editable="false" layoutX="88.0" layoutY="69.0" prefHeight="353.0" prefWidth="456.0" />
       <Label layoutX="20.0" layoutY="14.0" text="Getter">
          <font>
             <Font size="32.0" />

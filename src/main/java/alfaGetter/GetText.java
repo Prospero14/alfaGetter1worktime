@@ -2,16 +2,13 @@ package alfaGetter;
 
 import javafx.application.Application;
 
+import java.io.IOException;
+
 
 public class GetText {
 
-    GetText() {
+    public static void main (String[] args) throws IOException {
 
-        System.out.println("Done");
-    }
-
-    public static void main (String[] args){
-        new GetText();
         new SoupPars();
         Application.launch(AppStarted.class);
     }
